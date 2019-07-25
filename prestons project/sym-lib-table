@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name police_cart)(type Legacy)(uri "${KIPRJMOD}/police cart.lib")(options "")(descr ""))
+)

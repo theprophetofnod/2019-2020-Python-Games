@@ -1,0 +1,27 @@
+.title KiCad schematic
+L3 Net-_F3-Pad1_ Net-_L1-Pad2_ load
+L2 Net-_F2-Pad1_ Net-_L1-Pad2_ load
+L1 Net-_F1-Pad1_ Net-_L1-Pad2_ load
+Y1 Net-_C2-Pad1_ Net-_C1-Pad1_ 16MH Crystal oscillator
+R11 Net-_R11-Pad1_ Net-_R11-Pad2_ 10K
+C1 Net-_C1-Pad1_ GND 18pF
+C2 Net-_C2-Pad1_ GND 18Pf
+U10 Net-_R11-Pad1_ NC_01 NC_02 NC_03 NC_04 NC_05 "/Vo" GND Net-_C1-Pad1_ Net-_C2-Pad1_ NC_06 "/V4" NC_07 NC_08 "/V1" "/V2" "/V3" NC_09 NC_10 "/Vo" NC_11 GND NC_12 NC_13 NC_14 NC_15 Net-_U1-Pad5_ Net-_U1-Pad4_ "/V4" Atmega328
+U9 Net-_R10-Pad1_ LM3171
+R10 Net-_R10-Pad1_ GND 2K
+R9 Net-_R11-Pad2_ Net-_R10-Pad1_ 330
+L4 Net-_F4-Pad1_ Net-_L1-Pad2_ load
+F4 Net-_F4-Pad1_ GND Net-_F4-Pad3_ FQP30N06L
+R8 Net-_F4-Pad3_ GND 330
+R7 Net-_F4-Pad3_ "/V4" 330
+R5 Net-_F3-Pad3_ "/V3" 330
+R6 Net-_F3-Pad3_ GND 330
+F3 Net-_F3-Pad1_ GND Net-_F3-Pad3_ FQP30N06L
+R3 Net-_F2-Pad3_ "/V2" 330
+R4 Net-_F2-Pad3_ GND 330
+F2 Net-_F2-Pad1_ GND Net-_F2-Pad3_ FQP30N06L
+R1 Net-_F1-Pad3_ "/V1" 330R
+R2 Net-_F1-Pad3_ GND 330R
+F1 Net-_F1-Pad1_ GND Net-_F1-Pad3_ FQP30N06L
+U1 Net-_R11-Pad2_ NC_16 GND Net-_U1-Pad4_ Net-_U1-Pad5_ NC_17 NC_18 NC_19 NC_20 NC_21 NC_22 NC_23 NC_24 NC_25 lsm9ds1
+.end
