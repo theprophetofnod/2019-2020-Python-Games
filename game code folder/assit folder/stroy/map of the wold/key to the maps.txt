@@ -1,0 +1,35 @@
+road map
+---------
+main continent is name Atherith
+
+Esawood is an island where the the elves come from
+
+the main capital of the empire is olncester
+
+the name of the citys are
+gragos
+Uga land
+dashire
+Goxsall
+flosa
+Ozlubert
+Ling
+Okling
+Oitving
+Poln
+Opora
+Eimham
+
+Physical map
+------------
+
+colors of the map
+-------------------
+light brown is the roads
+lime green is medow
+dark green is forest
+light blue is lake
+dark blue is oacen 
+drak grey is mountains
+light grey is rocky 
+dark brown is the desert 
